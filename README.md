@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Sharon-Zhangrm.
-- 👀 I’m interested in traveling, photography and guitar.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m a beginner.
-- 📫 How to reach me: sharonzhangrm@gmail.com
+
